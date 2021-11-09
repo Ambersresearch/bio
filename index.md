@@ -1,4 +1,4 @@
 # Amber 
 Neuroscientist
-## Piaget
-Sudied the stages of cognitive development.
+## Updating
+Trying to figure out the brain
